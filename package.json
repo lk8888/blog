@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "lk前端博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lk8888/blog.git"
+  },
+  "keywords": [],
+  "author": "lk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lk8888/blog/issues"
+  },
+  "homepage": "https://github.com/lk8888/blog#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.0.1",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^26.0.1",
+    "regenerator-runtime": "^0.13.5"
+  }
+}
