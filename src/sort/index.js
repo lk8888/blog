@@ -9,7 +9,7 @@ export default {
           arr[j + 1] = temp;
         }
       }
-    }
+    } 
     return arr;
   }
 }
